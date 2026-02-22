@@ -1,0 +1,19 @@
+# Inference outputs
+inference/Inference/
+
+# Generated plots
+*.png
+*.pdf
+
+# Large datasets
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
